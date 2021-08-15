@@ -20,9 +20,15 @@
 * The well known companies who are part of this domain would be Bitcoin, Libra, TON, Coinbase, Square.
 
 ## Results
-
- #What has been the business impact of this company so far?
- 
 * The impact the business is taking, is that it is growing to new things, the JPM Coin alone is what is most impactful, it is showing the major companies to value of crypto and the value of blockchain
 * Some of the core metrics that the companies are using to measure success would be public interest and transactions, and Gateway Enterprisse Metrics.
 * The company is the top performer witht the asset turnaround beating Bitcoin.
+
+## Recommendations
+ If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+
+* Why do you think that offering this product or service would benefit the company?
+
+* What technologies would this additional product or service utilize?
+
+* Why are these technologies appropriate for your solution?
