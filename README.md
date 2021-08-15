@@ -6,13 +6,13 @@
 ## Overview and Origin
 * JP Morgan chase was founded on December 1, 2000 and the founder is John Pierpont Morgan.
 * JPM Coin, a digital coin, ran by JP Morgan Chase.
-*  JPM Coin is using their technology to their advantaage by instantly allowing customers send US Dollars to other customers simply through their phones.They came up with this idea becauase they do not want to be irrelevant and being "Amazon-ed".
+*  JPM Coin is using their technology to their advantaage by instantly allowing customers send US Dollars to other customers simply through their phones.They came up with this idea becauase they do not want to be irrelevant and being "Amazon-ed" from "JPM Coin Case Study Proposal.pdf".
 * The competitors would be Libra, and TON. 
 
 ## Business Activities
 * The challanges that JPM Coin is trying to solve are the ways to send payments across borders, and making it more effecient moving the customers money with the new upcoming generation services.
 * The intended customers for JPM Coin would be JPMorgan's clients as of right now; and in the long run, they intend to add other currencies and potentially be available for individual customers.
-* The technologies that JPM Coin are mainly using is blockchain, and they are using Quorum, in which Quorum is built on Ethereum which supports smart conttracts.
+* The technologies that JPM Coin are mainly using is blockchain, and they are using Quorum, in which Quorum is built on Ethereum which supports smart contracts.
 
 ## Landscape
 * The domain of the finacial industry for JPM Coin would be under Cryptocurrencys.
@@ -25,11 +25,5 @@
 * The company is the top performer witht the asset turnaround beating Bitcoin.
 
 ## Recommendations
-  #If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-* What 
-  #Why do you think that offering this product or service would benefit the company?
-*
-  #What technologies would this additional product or service utilize?
-*
-  #Why are these technologies appropriate for your solution?
-*
+* What I would suggest for JPM Coin is to offer their service not only to their customers but to everyone internationally, this can benefit JP Morgan becuase it would make it bigger, and beat their competitors with their new growing idea, the technologies that they would have to be using are the same ones that they are using right now which is blockchain, it would be the appropriate way to keep gorwing JPM Coin and especially while using Quorum.
+ 
