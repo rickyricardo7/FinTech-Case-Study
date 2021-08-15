@@ -6,7 +6,7 @@
 ## Overview and Origin
 * JP Morgan chase was founded on December 1, 2000 and the founder is John Pierpont Morgan.
 * JPM Coin, a digital coin, ran by JP Morgan Chase.
-*  JPM Coin is using their technology to their advantaage by instantly allowing customers send US Dollars to other customers simply through their phones.They came up with this idea becauase they do not want to be irrelevant and being "Amazon-ed" from "JPM Coin Case Study Proposal.pdf".
+*  JPM Coin is using their technology to their advantaage by instantly allowing customers send US Dollars to other customers simply through their phones.They came up with this idea becauase they do not want to be irrelevant and being "Amazon-ed" quoted from "JPM Coin Case Study Proposal.pdf".
 * The competitors would be Libra, and TON. 
 
 ## Business Activities
