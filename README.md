@@ -26,9 +26,10 @@
 
 ## Recommendations
   #If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
+* What 
   #Why do you think that offering this product or service would benefit the company?
-
+*
   #What technologies would this additional product or service utilize?
-
+*
   #Why are these technologies appropriate for your solution?
+*
