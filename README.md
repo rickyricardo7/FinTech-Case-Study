@@ -23,4 +23,3 @@
 * The impact the business is taking, is that it is growing to new things, the JPM Coin alone is what is most impactful, it is showing the major companies to value of crypto and the value of blockchain
 * Some of the core metrics that the companies are using to measure success would be public interest and transactions, and Gateway Enterprisse Metrics.
 * The company is the top performer witht the asset turnaround beating Bitcoin.
-  #What domain of the financial industry is the company in?
